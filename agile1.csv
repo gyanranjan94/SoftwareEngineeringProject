@@ -1,0 +1,29 @@
+,,,,,,
+,,,,,,
+Agile Product Backlog,,,,,,
+,,,,,,
+,,,,,,
+Task Name,Story,Sprint Ready,Priority,Status,Story Points,Assigned to Sprint
+Sprint 1,No,No,High,In Progress,24,No
+Task 1,Yes,Yes,Medium,Complete,8,Yes
+Task 2,Yes,Yes,Medium,Complete,16,Yes
+Task 3,Yes,Yes,Medium,Complete,0,Yes
+Sprint 2,Yes,Yes,Medium,In Progress,96,Yes
+Task 4,Yes,Yes,Low,Complete,32,Yes
+Task 5,Yes,Yes,Low,Complete,48,Yes
+Task 6,No,No,Medium,Not Started,16,No
+Sprint 3,Yes,No,Medium,In Progress,32,No
+Task 7,Yes,No,Low,In Progress,8,No
+Task 8,No,Yes,Medium,In Progress,8,No
+Task 9,Yes,No,Medium,In Progress,16,No
+Sprint 4,Yes,Yes,Medium,In Progress,64,Yes
+Task 10,Yes,No,Low,In Progress,32,No
+Task 11,Yes,Yes,Low,Complete,32,Yes
+Task 12,Yes,Yes,Medium,Complete,0,Yes
+Sprint 5,No,No,Low,Not Started,64,No
+Task 13,No,No,Low,Not Started,48,No
+Task 14,No,No,Low,Not Started,8,No
+Task 15,No,No,Low,Not Started,8,No
+,,,,,,
+,,,,,,
+Create a Product Backlog in Smartsheet,,,,,,
